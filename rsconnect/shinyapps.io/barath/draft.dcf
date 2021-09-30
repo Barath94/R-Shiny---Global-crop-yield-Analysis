@@ -1,0 +1,10 @@
+name: draft
+title:
+username:
+account: barath
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3217714
+bundleId: 3862785
+url: https://barath.shinyapps.io/draft/
+when: 1605440192.22288

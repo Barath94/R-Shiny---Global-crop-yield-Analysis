@@ -1,0 +1,12 @@
+name: Crops
+title: Crops
+username:
+account: barath
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3235633
+bundleId: 4091668
+url: https://barath.shinyapps.io/Crops/
+when: 1610556264.66801
+asMultiple: FALSE
+asStatic: FALSE
